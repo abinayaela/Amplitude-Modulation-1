@@ -125,19 +125,11 @@ grid on;
 Output Waveform
 <img width="1908" height="883" alt="Screenshot 2025-09-24 192408" src="https://github.com/user-attachments/assets/4b960ff3-da7b-4593-8494-bc0b48168723" />
 
-
-
-
-
 TABULATION:
-
 
 ![WhatsApp Image 2025-11-13 at 08 23 28_772bfecb](https://github.com/user-attachments/assets/edef91f2-a184-45f5-8a72-4157222a567d)
 
-
-
 Calculation
-
 
 ![WhatsApp Image 2025-11-13 at 08 23 30_40d1a671](https://github.com/user-attachments/assets/60eec444-711b-4daf-a185-b19d6a45449d)
 
